@@ -139,7 +139,7 @@ add_project_metadata
 init_git
 commit_skeleton_code
 add_precommit_config
-bump-it-all
+poetry run bump-it-all
 
 #git init
 #git checkout -b dev
